@@ -22,13 +22,19 @@ description: Взаимодействия и возможности сервер
 
 Чтобы открыть меню, введите `/wallet`.
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ## Выпадение голов
 
 При убийстве игрока вы получите его голову (шанс - 5%). Помимо этого, при наведении на голову, будет показано кто и чем убил.
 
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
 ## Кастомные головы
 
 Странствующий торговец может продавать любые виды блоков в виде голов.
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Особые крафты
 
@@ -71,6 +77,8 @@ description: Взаимодействия и возможности сервер
 Ссылка - [www.map.frogdream.xyz](https://map.frogdream.xyz)
 
 Ссылка на карту мира ферм - [www.farmsmap.frogdream.xyz](https://farmsmap.frogdream.xyz)
+
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ## Сезоны
 
