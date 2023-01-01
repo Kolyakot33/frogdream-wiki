@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Test](README.md)
+* [📖 Вики](README.md)
+* [⚖ Правила](pravila.md)
