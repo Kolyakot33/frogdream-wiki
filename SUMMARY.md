@@ -4,15 +4,15 @@
 
 * [📖 Вики](README.md)
 
-## 🎯 Обязательно к прочтению
+## 🎯 Обязательно к прочтению <a href="#important" id="important"></a>
 
-* [📔 Правила](pravila.md)
-* [🚛 Фишки](obyazatelno-k-prochteniyu/fishki.md)
+* [📔 Правила](important/rules.md)
+* [🚛 Фишки](important/edge.md)
 
 ## 🔷 прочее <a href="#other" id="other"></a>
 
-* [🏛 Творческий сервер](other/tvorcheskii-server.md)
-* [💰 Рынок](other/rynok.md)
+* [🏛 Творческий сервер](other/creative.md)
+* [💰 Рынок](other/trade.md)
 * [🚀 Premium](other/premium.md)
-* [👥 Совет](other/sovet.md)
+* [👥 Совет](other/soviet.md)
 * [🤖 Бот](other/bot.md)
