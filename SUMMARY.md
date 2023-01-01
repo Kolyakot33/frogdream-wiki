@@ -6,7 +6,7 @@
 
 ## 🎯 Обязательно к прочтению
 
-* [📔 Правила](obyazatelno-k-prochteniyu/pravila.md)
+* [📔 Правила](pravila.md)
 * [🚛 Фишки](obyazatelno-k-prochteniyu/fishki.md)
 
 ## 🔷 прочее <a href="#other" id="other"></a>
