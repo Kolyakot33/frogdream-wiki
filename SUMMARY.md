@@ -14,5 +14,5 @@
 * [🏛 Творческий сервер](other/creative.md)
 * [💰 Рынок](other/trade.md)
 * [🚀 Premium](other/premium.md)
-* [👥 Совет](other/soviet.md)
+* [👥 Совет](other/council.md)
 * [🤖 Бот](other/bot.md)
