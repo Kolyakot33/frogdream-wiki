@@ -1,15 +1,15 @@
 # Table of contents
 
-## 📦 Главная <a href="#main" id="main"></a>
+## Главная <a href="#main" id="main"></a>
 
 * [📖 Вики](README.md)
 
-## 🎯 Обязательно к прочтению <a href="#important" id="important"></a>
+## основное <a href="#important" id="important"></a>
 
 * [📔 Правила](important/rules.md)
 * [🚛 Фишки](important/edge.md)
 
-## 🔷 прочее <a href="#other" id="other"></a>
+## прочее <a href="#other" id="other"></a>
 
 * [🏛 Творческий сервер](other/creative.md)
 * [💰 Рынок](other/trade.md)

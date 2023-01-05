@@ -1,7 +1,3 @@
----
-description: Как он работает и с чем его едят
----
-
 # 🤖 Бот
 
 ## Центральное бюро безопасности
@@ -22,7 +18,7 @@ description: Как он работает и с чем его едят
 
 `/aboutme <текст>` - изменение о себе.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Кошельки
 
