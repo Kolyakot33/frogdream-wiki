@@ -1,6 +1,6 @@
 # Table of contents
 
-## Главная <a href="#main" id="main"></a>
+## Начало <a href="#main" id="main"></a>
 
 * [📖 Вики](README.md)
 
