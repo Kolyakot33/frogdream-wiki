@@ -1,7 +1,8 @@
 # 📖 Вики
 
 {% hint style="info" %}
-**Покупка проходки:** [www.frogdream.xyz](https://frogdream.xyz)
+**Покупка проходки:** [www.frogdream.xyz](https://frogdream.xyz)\
+Также доступен вход по анкете, для этого вам нужно зайти на наш Discord сервер: [https://discord.gg/52P7esPQ6Q](https://discord.gg/52P7esPQ6Q)
 
 **Айпи:** mc.frogdream.xyz
 
