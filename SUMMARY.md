@@ -6,6 +6,7 @@
 
 ## основное <a href="#important" id="important"></a>
 
+* [🏰 О сервере](important/o-servere.md)
 * [📔 Правила](important/rules.md)
 * [🚛 Фишки](important/edge.md)
 
