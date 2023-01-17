@@ -16,3 +16,7 @@
 * [🚀 Premium](other/premium.md)
 * [👥 Совет](other/council.md)
 * [🤖 Бот](other/bot.md)
+
+## Игроки <a href="#players" id="players"></a>
+
+* [🌆 Система городов](players/town-system.md)
