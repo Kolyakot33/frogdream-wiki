@@ -8,6 +8,7 @@
 
 * [📔 О сервере](important/about.md)
 * [⚖ Правила](important/rules.md)
+* [💶 Экономика](important/ekonomika.md)
 
 ## прочее <a href="#other" id="other"></a>
 

@@ -20,8 +20,6 @@
 
 `/wallet`
 
-<figure><img src="../.gitbook/assets/Снимок экрана 2023-01-06 в 6.03.29 PM (1).png" alt=""><figcaption></figcaption></figure>
-
 ## Объявления
 
 `/an <заголовок> <текст>`
